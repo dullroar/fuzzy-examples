@@ -1,6 +1,6 @@
 # fuzzy-examples
 
-For the companion-example design boundary, see [DESIGN.md](DESIGN.md).
+For the companion-example design boundary, see [docs/design/](docs/design/README.md).
 
 Some of the examples out of the [*Fuzzy Data Matching with SQL*](https://www.oreilly.com/library/view/fuzzy-data-matching/9781098152260/) book from O'Reilly Media.
 
